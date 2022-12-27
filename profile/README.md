@@ -12,3 +12,4 @@ Das kannst du, indem du zuerst unserem <a href="https://discord.com/invite/4mHCe
 | Programmierer | OverlordVader | ShadowWarrior#7971 |
 | Programmierer | \<unknown> | codi.py#4212 |
 | Prüfer | \<unknown> | LeoGreenKnight#2605 |
+| Prüfer | \<unknown> | Slush#8988 |
